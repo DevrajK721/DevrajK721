@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋<br>I’m currently an intern at Airbus with the Advanced Numerical Simulations Team, where I work on simulating complex physical systems. After this year in industry, I’ll be returning to Imperial College London to complete my MEng in Aeronautical Engineering.<br><br>My interests span across deep learning, machine learning, and statistical learning, and I enjoy the challenge of coding physics simulations. I’m also exploring Quantitative Finance to apply my passion for mathematics to real-world financial models.<br><br>I mainly code in Python and C++, with a growing interest in Rust.<br><br>Skills & Interests:<br>Physics Simulations: Coding solutions to real-world physics problems<br>Mathematics: Applying advanced mathematical techniques to engineering and finance<br>Programming Languages: Python, C++, Rust<br>Learning: Deep Learning, Machine Learning, Statistical Learning, Quantitative Finance<br>Looking forward to collaborating on exciting projects and learning from the open-source community!
 
 
