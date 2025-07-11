@@ -1,5 +1,5 @@
 # About Me:
-MEng Aeronautical Engineering Student with an interest in Quantitative Finance. <br><br>My interests span across statistical learning methods, derivatives price modeling & trading strategies and broader finance. I enjoy the challenge of finding good trading strategies and backtesting. <br><br>I mainly code in Python and Python with a growing interest into High Performance Computing (Multithreading, Linux Development, etc.).<br><br>Skills & Interests:<br>Programming, Pure Mathematics (Stochastic Calculus, Linear Algebra, PDEs, etc.), Statistics & Probability, Chess.
+MEng Aeronautical Engineering Student with an interest in Quantitative Finance. <br><br>My interests span across statistical learning methods, derivatives price modeling & trading strategies and broader finance. I enjoy the challenge of finding good trading strategies and backtesting. <br><br>I mainly code in Python and C++ with a growing interest into High Performance Computing (Multithreading, Linux Development, etc.).<br><br>Skills & Interests:<br>Programming, Pure Mathematics (Stochastic Calculus, Linear Algebra, PDEs, etc.), Statistics & Probability, Chess.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devrajkatkoria) 
